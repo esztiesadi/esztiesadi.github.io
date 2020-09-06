@@ -1,0 +1,50 @@
+picture_path: szlovenia
+
+preview:
+  filename: IMG_001-4032x3024
+  original: IMG_001-4032x3024.jpg
+  sizes:
+  - IMG_001-4032x3024.jpg
+  - IMG_001-2016x1512.jpg
+  thumbnail: IMG_001-thumbnail.jpg
+
+pictures:
+
+- filename: IMG_001-4032x3024
+  original: IMG_001-4032x3024.jpg
+  sizes:
+  - IMG_001-4032x3024.jpg
+  - IMG_001-2016x1512.jpg
+  thumbnail: IMG_001-thumbnail.jpg
+
+- filename: IMG_002-4032x3024
+  original: IMG_002-4032x3024.jpg
+  sizes:
+  - IMG_002-4032x3024.jpg
+  - IMG_002-2016x1512.jpg
+  thumbnail: IMG_002-thumbnail.jpg
+
+- filename: IMG_003-4032x3024
+  original: IMG_003-4032x3024.jpg
+  sizes:
+  - IMG_003-4032x3024.jpg
+  - IMG_003-2016x1512.jpg
+  thumbnail: IMG_003-thumbnail.jpg
+
+- filename: IMG_004-2048x1536
+  original: IMG_004-2048x1536.jpg
+  sizes:
+  - IMG_004-2048x1536.jpg
+  thumbnail: IMG_004-thumbnail.jpg
+
+- filename: IMG_005-2048x1536
+  original: IMG_005-2048x1536.jpg
+  sizes:
+  - IMG_005-2048x1536.jpg
+  thumbnail: IMG_005-thumbnail.jpg
+
+- filename: IMG_006-2048x1536
+  original: IMG_006-2048x1536.jpg
+  sizes:
+  - IMG_006-2048x1536.jpg
+  thumbnail: IMG_006-thumbnail.jpg
