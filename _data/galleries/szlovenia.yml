@@ -1,33 +1,29 @@
 picture_path: szlovenia
 
 preview:
-  filename: IMG_001-4032x3024
-  original: IMG_001-4032x3024.jpg
+  filename: IMG_001-2016x1512
+  original: IMG_001-2016x1512.jpg
   sizes:
-  - IMG_001-4032x3024.jpg
   - IMG_001-2016x1512.jpg
   thumbnail: IMG_001-thumbnail.jpg
 
 pictures:
 
-- filename: IMG_001-4032x3024
-  original: IMG_001-4032x3024.jpg
+- filename: IMG_001-2016x1512
+  original: IMG_001-2016x1512.jpg
   sizes:
-  - IMG_001-4032x3024.jpg
   - IMG_001-2016x1512.jpg
   thumbnail: IMG_001-thumbnail.jpg
 
-- filename: IMG_002-4032x3024
-  original: IMG_002-4032x3024.jpg
+- filename: IMG_002-2016x1512
+  original: IMG_002-2016x1512.jpg
   sizes:
-  - IMG_002-4032x3024.jpg
   - IMG_002-2016x1512.jpg
   thumbnail: IMG_002-thumbnail.jpg
 
-- filename: IMG_003-4032x3024
-  original: IMG_003-4032x3024.jpg
+- filename: IMG_003-2016x1512
+  original: IMG_003-2016x1512.jpg
   sizes:
-  - IMG_003-4032x3024.jpg
   - IMG_003-2016x1512.jpg
   thumbnail: IMG_003-thumbnail.jpg
 
@@ -48,3 +44,195 @@ pictures:
   sizes:
   - IMG_006-2048x1536.jpg
   thumbnail: IMG_006-thumbnail.jpg
+
+- filename: IMG_01
+  original: IMG_01.jpeg
+  sizes:
+    - IMG_01.jpeg
+  thumbnail: IMG_01.jpeg
+
+- filename: IMG_02
+  original: IMG_02.jpeg
+  sizes:
+    - IMG_02.jpeg
+  thumbnail: IMG_02.jpeg
+
+- filename: IMG_03
+  original: IMG_03.jpeg
+  sizes:
+    - IMG_03.jpeg
+  thumbnail: IMG_03.jpeg
+
+- filename: IMG_04
+  original: IMG_04.jpeg
+  sizes:
+    - IMG_04.jpeg
+  thumbnail: IMG_04.jpeg
+
+- filename: IMG_05
+  original: IMG_05.jpeg
+  sizes:
+    - IMG_05.jpeg
+  thumbnail: IMG_05.jpeg
+
+- filename: IMG_06
+  original: IMG_06.jpeg
+  sizes:
+    - IMG_06.jpeg
+  thumbnail: IMG_06.jpeg
+
+- filename: IMG_07
+  original: IMG_07.jpeg
+  sizes:
+    - IMG_07.jpeg
+  thumbnail: IMG_07.jpeg
+
+- filename: IMG_08
+  original: IMG_08.jpeg
+  sizes:
+    - IMG_08.jpeg
+  thumbnail: IMG_08.jpeg
+
+- filename: IMG_09
+  original: IMG_09.jpeg
+  sizes:
+    - IMG_09.jpeg
+  thumbnail: IMG_09.jpeg
+
+- filename: IMG_10
+  original: IMG_10.jpeg
+  sizes:
+    - IMG_10.jpeg
+  thumbnail: IMG_10.jpeg
+
+- filename: IMG_11
+  original: IMG_11.jpeg
+  sizes:
+    - IMG_11.jpeg
+  thumbnail: IMG_11.jpeg
+
+- filename: IMG_12
+  original: IMG_12.jpeg
+  sizes:
+    - IMG_12.jpeg
+  thumbnail: IMG_12.jpeg
+
+- filename: IMG_13
+  original: IMG_13.jpeg
+  sizes:
+    - IMG_13.jpeg
+  thumbnail: IMG_13.jpeg
+
+- filename: IMG_14
+  original: IMG_14.jpeg
+  sizes:
+    - IMG_14.jpeg
+  thumbnail: IMG_14.jpeg
+
+- filename: IMG_15
+  original: IMG_15.jpeg
+  sizes:
+    - IMG_15.jpeg
+  thumbnail: IMG_15.jpeg
+
+- filename: IMG_16
+  original: IMG_16.jpeg
+  sizes:
+    - IMG_16.jpeg
+  thumbnail: IMG_16.jpeg
+
+- filename: IMG_17
+  original: IMG_17.jpeg
+  sizes:
+    - IMG_17.jpeg
+  thumbnail: IMG_17.jpeg
+
+- filename: IMG_18
+  original: IMG_18.jpeg
+  sizes:
+    - IMG_18.jpeg
+  thumbnail: IMG_18.jpeg
+
+- filename: IMG_18_1
+  original: IMG_18_1.jpeg
+  sizes:
+    - IMG_18_1.jpeg
+  thumbnail: IMG_18_1.jpeg
+
+- filename: IMG_18_2
+  original: IMG_18_2.jpeg
+  sizes:
+    - IMG_18_2.jpeg
+  thumbnail: IMG_18_2.jpeg
+
+- filename: IMG_18_3
+  original: IMG_18_3.jpeg
+  sizes:
+    - IMG_18_3.jpeg
+  thumbnail: IMG_18_3.jpeg
+
+- filename: IMG_19
+  original: IMG_19.jpeg
+  sizes:
+    - IMG_19.jpeg
+  thumbnail: IMG_19.jpeg
+
+- filename: IMG_20
+  original: IMG_20.jpeg
+  sizes:
+    - IMG_20.jpeg
+  thumbnail: IMG_20.jpeg
+
+- filename: IMG_21
+  original: IMG_21.jpeg
+  sizes:
+    - IMG_21.jpeg
+  thumbnail: IMG_21.jpeg
+
+- filename: IMG_22
+  original: IMG_22.jpeg
+  sizes:
+    - IMG_22.jpeg
+  thumbnail: IMG_22.jpeg
+
+- filename: IMG_23
+  original: IMG_23.jpeg
+  sizes:
+    - IMG_23.jpeg
+  thumbnail: IMG_23.jpeg
+
+- filename: IMG_24
+  original: IMG_24.jpeg
+  sizes:
+    - IMG_24.jpeg
+  thumbnail: IMG_24.jpeg
+
+- filename: IMG_25
+  original: IMG_25.jpeg
+  sizes:
+    - IMG_25.jpeg
+  thumbnail: IMG_25.jpeg
+
+- filename: IMG_26
+  original: IMG_26.jpeg
+  sizes:
+    - IMG_26.jpeg
+  thumbnail: IMG_26.jpeg
+
+- filename: IMG_27
+  original: IMG_27.jpeg
+  sizes:
+    - IMG_27.jpeg
+  thumbnail: IMG_27.jpeg
+
+- filename: IMG_28
+  original: IMG_28.jpeg
+  sizes:
+    - IMG_28.jpeg
+  thumbnail: IMG_28.jpeg
+
+- filename: IMG_29
+  original: IMG_29.jpeg
+  sizes:
+    - IMG_29.jpeg
+  thumbnail: IMG_29.jpeg
